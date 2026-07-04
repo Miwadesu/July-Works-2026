@@ -15,3 +15,11 @@ Family System
 ### Concepts Used
 * If-else statement
 * Switch statement
+
+## July 4
+Multiplication Table
+
+[Click here to view the file](MultiplicationTable.c)
+### Concepts Used
+* For loops
+* Nested loops
