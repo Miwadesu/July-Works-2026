@@ -1,0 +1,104 @@
+#include <stdio.h>
+
+int main() {
+    int one, two, three, four, five, six, seven, eight, nine, ten, num;
+    printf("=====Multiplication Table=====\n");
+int number = 1;
+for (int i = 1; i <= 2; i++)
+{
+    for (int j = 1; j <= 5; j++)
+    {
+        printf("%d ", number);
+        number++;
+    }
+    printf("\n");
+}
+
+    printf("Please choose your number: \n");
+    scanf("%d", &num);
+    switch (num){
+     case 1:
+     printf("You chose number 1.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    one = i*1;
+    printf("%d x 1 = %d\n", i, one);
+}
+    break;
+    case 2:
+    printf("You chose number 2.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    two = i*2;
+    printf("%d x 2 = %d\n", i, two);
+}
+    break;
+    case 3:
+    printf("You chose number 3.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    three = i*3;
+    printf("%d x 3 = %d\n", i, three);
+}
+    break;
+    case 4:
+    printf("You chose number 4.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    four = i*4;
+    printf("%d x 4 = %d\n", i, four);
+}
+    break;
+    case 5:
+    printf("You chose number 5.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    five = i*5;
+    printf("%d x 5 = %d\n", i, five);
+}
+    break;
+    case 6:
+    printf("You chose number 6.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    six = i*6;
+    printf("%d x 6 = %d\n", i, six);
+}
+    break;
+    case 7:
+    printf("You chose number 7.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    seven = i*7;
+    printf("%d x 7 = %d\n", i, seven);
+}
+    break;
+    case 8:
+    printf("You chose number 8.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    eight = i*8;
+    printf("%d x 8 = %d\n", i, eight);
+}
+    break;
+    case 9:
+    printf("You chose number 9.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    nine = i*9;
+    printf("%d x 9 = %d\n", i, nine);
+}
+    break;
+    case 10:
+    printf("You chose number 10.\n");
+     for (int i = 1; i <= 10; i++)
+{
+    ten = i*10;
+    printf("%d x 10 = %d\n", i, ten);
+}
+    break;
+    default:
+    printf("Number is not included. Please choose a different number.");
+    }
+    return 0;
+}
