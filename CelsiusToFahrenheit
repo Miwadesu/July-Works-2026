@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() {
+    float c, temp2, temp1, f;
+    int code;
+    printf("Welcome to the temperature converter! Please type 1 for celsius and type 2 for fahrenheit:");
+    scanf("%d", &code);
+    switch (code) {
+        case 1:
+        printf("Type the temperature in celsius: ");
+        scanf("%f", &temp1);
+        f = (temp1 * 9/5) + 32;
+        printf("The answer is %.2f\tf.", f);
+        break;
+        case 2:
+        printf("Type the temperature in fahrenheit: ");
+        scanf("%f", &temp2);
+        c = (temp2 - 32) * 5/9;
+        printf("The answer is %.2f\tc.", c);
+        break;
+        default:
+    printf("Invalid choice. Please enter 1 or 2.\n");
+    }
+    return 0;
+}
