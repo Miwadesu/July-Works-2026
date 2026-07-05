@@ -23,3 +23,10 @@ Multiplication Table
 ### Concepts Used
 * For loops
 * Nested loops
+
+## July 5
+Calculator
+
+[Click here to view the file](Calculator)
+### Concepts Used
+* Functions
