@@ -4,7 +4,7 @@ will update everyday until july 23
 ## July 2 
 Temp Converter
 
-[Click here to view the file](CelsiustoFahrenheit)
+[Click here to view the file](CelsiusToFahrenheit)
 ### Concepts Used
 * Operators
 
