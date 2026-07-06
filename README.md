@@ -1,6 +1,11 @@
 # July-Works-2026
 my codes during july summer break before college
 will update everyday until july 23
+
+# How to check the code?
+Copy the text and paste it in an online c compiler
+[Link to direct you to a compiler.](https://www.programiz.com/c-programming/online-compiler/)
+
 ## July 2 
 Temp Converter
 
