@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+char names[5][30];
+printf("Enter name 1: ");
+scanf("%29s", names[0]);
+printf("Enter name 2: ");
+scanf("%29s", names[1]); 
+printf("Enter name 3: ");
+scanf("%29s", names[2]);
+printf("Enter name 4: ");
+scanf("%29s", names[3]);
+printf("Enter name 5: ");
+scanf("%29s", names[4]);
+printf("%s\n%s\n%s\n%s\n%s\n", names[0], names[1], names[2], names[3], names[4]);
+    return 0;
+}
