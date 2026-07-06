@@ -30,3 +30,11 @@ Calculator
 [Click here to view the file](Calculator)
 ### Concepts Used
 * Functions
+
+## July 6
+Name List
+
+[Click here to view the file](NameList)
+### Concepts Used
+* Arrays
+* Strings
