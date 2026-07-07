@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() {
+    int temp;
+int x = 10;
+int *eks = &x;
+int y = 5;
+int *way = &y;
+printf("Before:\nx = %d\ny = %d", *eks, *way);
+temp = *eks;
+*eks = *way;
+*way = temp;
+printf("\n\nAfter:\nx = %d\ny = %d", *eks, *way);
+    return 0;
+}
