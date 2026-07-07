@@ -43,3 +43,10 @@ Name List
 ### Concepts Used
 * Arrays
 * Strings
+
+## July 7
+Number Swap
+
+[Click here to view the file](NumberSwap)
+### Concepts Used
+* Basic pointers
