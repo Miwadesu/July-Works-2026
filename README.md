@@ -50,3 +50,11 @@ Number Swap
 [Click here to view the file](NumberSwap)
 ### Concepts Used
 * Basic pointers
+
+## July 8
+School Morning Routine Pseudocode
+
+[Click here to view the file](Pseudocode)
+### Concepts Used
+* Algorythm
+* Problem Decomposition
