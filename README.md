@@ -58,3 +58,9 @@ School Morning Routine Pseudocode
 ### Concepts Used
 * Algorythm
 * Problem Decomposition
+
+## July 9
+NO code (only learned this)
+
+### Concepts Used
+* Flowcharts
