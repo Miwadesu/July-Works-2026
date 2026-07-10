@@ -64,3 +64,9 @@ NO code (only learned this)
 
 ### Concepts Used
 * Flowcharts
+
+## July 10
+NO code (only learned this)
+
+### Concepts Used
+* Time complexity
