@@ -1,0 +1,67 @@
+#include <stdio.h>
+#include <string.h>
+char ID[5];
+int found = 0;
+int search;
+int main() {
+    char ids[5][5] = {
+    "1234",
+    "5678",
+    "1357",
+    "2468",
+    "2531"
+    };
+    char names[5][20] = {
+    "Julia",
+    "Peter",
+    "David",
+    "Carla",
+    "Lara"
+    };
+    while (1){
+    printf("\n\n==== Student Search =====\n\n");
+    printf("What would you like to do?\n1. Look through student ID's\n2. Search student ID\n3. Exit\n = ");
+    scanf("%d", &search);
+    switch (search){
+        case 1:
+        char ids[5][5] = {
+    "1234",
+    "5678",
+    "1357",
+    "2468",
+    "2531"
+    };
+    char names[5][20] = {
+    "Julia",
+    "Peter",
+    "David",
+    "Carla",
+    "Lara"
+    };
+    printf("STUDENT NAME & IDS\n%s - %s\n%s - %s\n%s - %s\n%s - %s\n%s - %s\n", ids[0], names[0], ids[1], names[1], ids[2], names[2], ids[3], names[3], ids[4], names[4]);
+    found = 0;
+        break;
+        case 2:
+        printf("Enter ID: ");
+    scanf("%4s", ID);
+    found = 0;
+    for (int i = 0; i < 5; i++) {
+    if (strcmp(ID, ids[i]) == 0){
+        printf("Student %s found at index %d.\n", names[i], i);
+        found = 1;
+        break;
+        }
+    }
+    if (found == 0) {
+    printf("ID NOT FOUND.\n");
+    }
+        break;
+        case 3:
+        printf("Thank you for using Student Search");
+        return 0;
+        default:
+        printf("Invalid number\n");
+    }
+    }
+    return 0;
+}
