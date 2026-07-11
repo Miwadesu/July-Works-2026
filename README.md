@@ -70,3 +70,11 @@ NO code (only learned this)
 
 ### Concepts Used
 * Time complexity
+
+## July 11
+Student Search
+
+[Click here to view the file](StudentSearch)
+### Concepts Used
+* Search
+* Arrays
