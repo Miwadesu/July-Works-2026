@@ -78,3 +78,11 @@ Student Search
 ### Concepts Used
 * Search
 * Arrays
+
+## July 12
+Number Sort
+
+[Click here to view the file](NumberSort)
+### Concepts Used
+* Sorting
+* Bubble Sort
