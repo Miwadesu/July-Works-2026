@@ -86,3 +86,10 @@ Number Sort
 ### Concepts Used
 * Sorting
 * Bubble Sort
+
+## July 13
+NO code (only learned this)
+
+### Concepts Used
+* Stacks
+* Queue
