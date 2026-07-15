@@ -93,3 +93,13 @@ NO code (only learned this)
 ### Concepts Used
 * Stacks
 * Queue
+
+## July 14
+NO code. Reviewed all lessons from July 1
+
+## July 15
+First python code
+
+[Click here to view the file](FirstPython)
+### Concepts Used
+* basic elements and variables
