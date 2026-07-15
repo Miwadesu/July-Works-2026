@@ -1,0 +1,13 @@
+print("Hello, world!")
+name = input("Please type your name: ")
+print(f"Hello, {name} :)")
+num = int(input ("Can you input any number?: "))
+number = int(input ("Another number?: "))
+add = num + number
+if add >= 0:
+    print(f"the answer is {add} and it's a positive number!")
+else:
+    print(f"the answer is {add} and it's a negative number!")
+print("Anyways, here is a number sequence lol")
+for i in range(11): 
+    print(i)
