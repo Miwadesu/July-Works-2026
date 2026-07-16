@@ -103,3 +103,12 @@ First python code
 [Click here to view the file](FirstPython)
 ### Concepts Used
 * basic elements and variables
+
+## July 16
+NO code (only learned this)
+
+### Concepts Used
+* Sets
+* Logic Statements
+* Logic Operators
+* Truth Tables
