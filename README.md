@@ -112,3 +112,10 @@ NO code (only learned this)
 * Logic Statements
 * Logic Operators
 * Truth Tables
+
+## July 17
+NO code (only learned this)
+
+### Concepts Used
+* Relations
+* Functions
