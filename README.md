@@ -119,3 +119,10 @@ NO code (only learned this)
 ### Concepts Used
 * Relations
 * Functions
+
+## July 18
+NO code (will update)
+
+### Concepts Used
+* variables
+* input-output
