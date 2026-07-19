@@ -126,3 +126,11 @@ NO code (will update)
 ### Concepts Used
 * variables
 * input-output
+
+## July 19
+Guessing Game (Python)
+
+[Click here to view the file](GuessingGame)
+### Concepts Used
+* loops
+* conditions
