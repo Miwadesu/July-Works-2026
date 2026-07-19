@@ -1,0 +1,16 @@
+print("WELCOME TO THE NUMBER GUESSING GAME!\n")
+num = 67
+attempts = 1
+guess = int(input("Enter your guessing number: "))
+while guess < num or guess > num:
+    if guess < num:
+        print("Try a higher number!\n")
+        guess = int(input("Enter your guessing number: "))
+        attempts += 1
+    else:
+        print("Try a lower number!\n")
+        guess = int(input("Enter your guessing number: "))
+        attempts += 1
+print(f"\nYou guessed it and took you {attempts} attempts!")
+for i in range(68): 
+    print("SIIIIIIIX SEEEEVEEEEEN")
