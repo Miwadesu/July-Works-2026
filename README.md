@@ -134,3 +134,11 @@ Guessing Game (Python)
 ### Concepts Used
 * loops
 * conditions
+
+## July 20
+Task Maker/Manager (Python)
+
+[Click here to view the file](TaskMaker)
+### Concepts Used
+* Functions
+* Lists
